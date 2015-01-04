@@ -1,0 +1,15 @@
+PODS:
+  - Bolts (1.1.3)
+  - Mantle (1.5.1):
+    - Mantle/extobjc (= 1.5.1)
+  - Mantle/extobjc (1.5.1)
+
+DEPENDENCIES:
+  - Bolts
+  - Mantle
+
+SPEC CHECKSUMS:
+  Bolts: 3db0a875235e0c9042b013af13af0f00f79b102c
+  Mantle: d7c5ac734579ec751c58fecbf56189853056c58c
+
+COCOAPODS: 0.35.0
