@@ -79,6 +79,7 @@
 
     NSDate *object = self.objects[indexPath.row];
     cell.textLabel.text = [object description];
+    cell.textLabel.font = [UIFont systemFontOfSize:8];
     return cell;
 }
 //

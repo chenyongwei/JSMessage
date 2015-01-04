@@ -7,7 +7,9 @@
 //
 
 #import "JSBridgeManager.h"
-
+#import "JSBridgeConstant.h"
+#import "JSMessage.h"
+#import "JSService.h"
 
 @implementation JSBridgeManager
 {

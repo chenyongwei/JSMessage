@@ -10,7 +10,6 @@
 #import "MTLModel.h"
 #import "MTLJSONAdapter.h"
 
-
 @interface JSMessage : MTLModel <MTLJSONSerializing>
 
 @property (nonatomic, strong) NSString *service;

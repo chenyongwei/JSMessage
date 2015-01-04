@@ -8,9 +8,6 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import "JSMessage.h"
-#import "JSService.h"
-#import "Constant.h"
 
 @interface JSBridgeManager : NSObject
 

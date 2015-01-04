@@ -8,6 +8,7 @@
 
 #import "DetailViewController.h"
 #import "Constant.h"
+#import "JSBridgeConstant.h"
 #import "NSString+PJR.h"
 #import "JSBridgeManager.h"
 
